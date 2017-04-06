@@ -1,0 +1,27 @@
+{
+  "name": "quick-search",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://localhost:3001",
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "dependencies": {
+    "axios": "^0.15.3",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "knex": "^0.12.7",
+    "nodemon": "^1.11.0",
+    "pg": "^6.1.4",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "socket.io": "^1.7.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "dev": "nodemon server/server.js"
+  }
+}
