@@ -30,7 +30,7 @@ hr {
 
 #add-row-button {
   border: none;
-  background-color: #1BA1D2;
+  background-color: rgb(245, 77, 54);
   color: #FFF;
   float: left;
   margin-left: 10px;
@@ -41,7 +41,7 @@ hr {
 }
 
 #add-row-button:hover {
-  background-color: rgb(59, 194, 251);
+  background-color: rgb(242, 170, 157);
   cursor: pointer;
 }
 
@@ -55,7 +55,7 @@ select, input, .second-box-container {
 }
 
 #master-search-button {
-  background-color: #1BA1D2;
+  background-color: rgb(245, 77, 54);
   border: none;
   bottom: 10px;
   color: #FFF;
@@ -68,7 +68,7 @@ select, input, .second-box-container {
 }
 
 #master-search-button:hover {
-  background-color: rgb(59, 194, 251);
+  background-color: rgb(242, 170, 157);
   cursor: pointer;
 }
 
@@ -103,14 +103,14 @@ input {
 
 .search-button-each-row {
   border: none;
-  background-color: #1BA1D2;
+  background-color: rgb(245, 77, 54);
   color: #FFF;
   padding: 10px 20px;
   width: 100px;
 }
 
 .search-button-each-row:hover {
-  background-color: rgb(59, 194, 251);
+  background-color: rgb(242, 170, 157);
   cursor: pointer;
 }
 
