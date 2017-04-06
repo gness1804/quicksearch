@@ -1,6 +1,6 @@
+**Quick Search**
 
-
-![Screenshot]()
+![Screenshot](public/quicksearch.png)
 
 Quick Search is an app that filters through a database in response to user queries. The user can search the following fields:
 
